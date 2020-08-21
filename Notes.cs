@@ -14,12 +14,6 @@ public class Notes : MonoBehaviour
 
     Vector3 mousePosition;
 
-    void Start()
-    {
-       
-    }
-
-    // Update is called once per frame
     void Update()
     {
         mousePosition = Input.mousePosition;
